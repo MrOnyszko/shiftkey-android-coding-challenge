@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.CodingChallenge" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/color700</item>
+        <item name="colorPrimaryDark">@color/color900</item>
+        <item name="colorAccent">@color/color700</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:background">@color/status_bar</item>
+    </style>
+</resources>

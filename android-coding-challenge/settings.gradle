@@ -1,0 +1,5 @@
+rootProject.name = "Coding Challenge"
+include ':app'
+include ':domain'
+include ':remote'
+include ':foundation'

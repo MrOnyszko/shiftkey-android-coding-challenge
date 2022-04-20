@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+    <string name="available_shifts_screen_title">Available Shifts</string>
+    <string name="shift_details_screen_title">Shift details</string>
+    <string name="available_shifts_screen_shift_premium_rate_label">Premium Rate</string>
+    <string name="available_shifts_screen_shift_covid_label">covid</string>
+    <string name="available_shifts_screen_shift_distance_label">Within %d ml</string>
+
+    <string name="default_empty_text">Empty</string>
+    <string name="default_error_text">Error</string>
+
+    <string name="navigation_icon_action_content_description">On navigation back</string>
+</resources>

@@ -1,0 +1,6 @@
+ext {
+  // Android SDK
+  android_min_sdk_version = 23
+  android_target_sdk_version = 31
+  android_compile_sdk_version = 31
+}
